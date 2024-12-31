@@ -13,7 +13,7 @@ Experience the thrill of the Squid Game challenges directly in your terminal! Th
 - Little knowledge of running code
 ## How to Play
 Clone or download the project files:
-- "git clone https://github.com/alekh08squid-game.git
+- "git clone https://github.com/alekh08/Squid-game.git
 cd squid-game"
 - Run the Python script:
   python squid-game.py
